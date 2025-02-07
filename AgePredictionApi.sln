@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgePredictionApi", "AgePredictionApi\AgePredictionApi.csproj", "{78B156A3-52BB-4176-B1C5-2A2F4E4E8E66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgePredictionApi.Tests", "AgePredictionApi.Tests\AgePredictionApi.Tests.csproj", "{2987FF4A-61E1-46AC-B2FB-0CD7EB94290D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B156A3-52BB-4176-B1C5-2A2F4E4E8E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B156A3-52BB-4176-B1C5-2A2F4E4E8E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B156A3-52BB-4176-B1C5-2A2F4E4E8E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B156A3-52BB-4176-B1C5-2A2F4E4E8E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2987FF4A-61E1-46AC-B2FB-0CD7EB94290D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2987FF4A-61E1-46AC-B2FB-0CD7EB94290D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2987FF4A-61E1-46AC-B2FB-0CD7EB94290D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2987FF4A-61E1-46AC-B2FB-0CD7EB94290D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3122C1C6-DAE4-4AA0-A182-BAA088BB3EC4}
+	EndGlobalSection
+EndGlobal

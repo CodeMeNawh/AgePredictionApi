@@ -1,0 +1,6 @@
+@AgePredictionApi_HostAddress = http://localhost:5244
+
+GET {{AgePredictionApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
